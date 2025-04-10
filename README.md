@@ -33,10 +33,14 @@ pip install -r requirements.txt
 
 # Install Playwright browsers
 playwright install
+```
+
+---
 
 ## 📄 Usage
 
-1. **Prepare `subdomains.txt`**
+
+1. **Prepare subdomains.txt**
 
 List one domain per line:
 admin.example.com
@@ -45,14 +49,9 @@ portal.example.org
 
 2. **Run the script**
 
-```bash
 python sso_check.py
 
-## 📋 Requirements
+---
 
-Python 3.7+
-Playwright
-BeautifulSoup
-
-
-
+## 🙋‍♂️ Author
+Made with ❤️ by Ubaid Ahmed
