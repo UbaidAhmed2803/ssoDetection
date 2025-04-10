@@ -49,7 +49,7 @@ portal.example.org
 
 2. **Run the script**
 
-python sso_check.py
+python ssoDetect.py
 
 ---
 
